@@ -1,2 +1,2 @@
 # tlb_generator_slr
-A generator of large instances for the target level bicycle problem for service level requirements
+A generator of instances for large target-level problems in service level requirements
